@@ -10,3 +10,12 @@ mysite/users/__pycache__/urls.cpython-312.pyc
 mysite/users/__pycache__/views.cpython-312.pyc
 mysite/users/migrations/__pycache__/__init__.cpython-312.pyc
 mysite/mysite/__pycache__/wsgi.cpython-312.pyc
+mysite/media/test.jpg
+mysite/posts/migrations/__pycache__/0003_post_author.cpython-312.pyc
+mysite/posts/__pycache__/views.cpython-312.pyc
+mysite/posts/__pycache__/models.cpython-312.pyc
+mysite/posts/__pycache__/models.cpython-312.pyc
+mysite/posts/__pycache__/forms.cpython-312.pyc
+mysite/posts/__pycache__/models.cpython-312.pyc
+mysite/posts/__pycache__/models.cpython-312.pyc
+mysite/posts/__pycache__/views.cpython-312.pyc
